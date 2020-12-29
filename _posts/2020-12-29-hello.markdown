@@ -1,0 +1,20 @@
+---
+layout: post
+title: Sveiciens
+tags: ["blogs"]
+image: '/images/posts/rakstam/crop-woman-writing-in-notebook-at-home-4050300.jpg'
+lang: lv
+ref: 2020-07-24-hello
+---
+
+Sveiciens!
+
+Mazliet pacietības! Jau pavisam drīz te būs jauns ieraksts par kādu interesantu grāmatu vai aizraujošs stāsts par to, kā es strādāju pie kārtējā datu analītikas projekta!
+
+Uz tikšanos,
+Agnese 
+
+***
+
+Foto autore: Vlada Karpovich from Pexels
+{: style="color:gray; font-size: 80%; text-align: left;"}
