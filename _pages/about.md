@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Par mani
+title: Par mani | Обо мне
 image: '/images/pages/DSC04153_1.jpg'
 lang: lv
 ref: about
 ---
 
-:latvia: Sveiсināti!
+:latvia: Sveiki!
 
 Mani sauc **Agnese Poikāne**. Esmu socioloģe, datu analītiķe un sociālā mentore. 
 
