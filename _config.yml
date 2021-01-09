@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Agnese Poikāne | par grāmatām, datiem un sabiedrību
-#title:       books | data | society
+#title:      Agnese Poikāne | par grāmatām, datiem un sabiedrību
+title:       ![image-alumni](/images/posts/rakstam/ap_logo _zils 2-02.svg)
 
 email:       'agnesepoikane@inbox.lv'
 #description: 'Аналитика данных, социология и методы исследования'
