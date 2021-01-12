@@ -18,17 +18,9 @@ Sazināties ar mani var, rakstot uz e-pasta adresi agnesepoikane[at]inbox.lv vai
 
 :round_pushpin: Rīga, Latvija 
 
-Dalība organizācijās:
-
-![Latvijas Sociālās uzņēmējdarbības asociācija](https://sua.lv/)(/images/pages/lsua.png)
-![Amnesty International](/images/pages/amnesty.jpg)
-
-
 <br/>
 <br/>
 <br/>
-
-
 
 :ru: Здравствуйте!
 
@@ -41,5 +33,15 @@ Dalība organizācijās:
 Вы можете связаться со мной через [LinkedIn](https://www.linkedin.com/in/agnese-poikane/) или [Facebook](https://www.facebook.com/agnese.poikane/), или написав на адрес электронной почты agnesepoikane[at]inbox.lv. 
 
 :round_pushpin: Рига, Латвия
+
+<br/>
+<br/>
+<br/>
+
+Dalība organizācijās | Членство в организациях:
+
+<img src="/images/pages/lsua.png" alt=["Latvijas Sociālās uzņēmējdarbības asociācija"](sua.lv) width="100" height="50">
+
+<img src="/images/pages/amnesty.jpg" alt="Amnesty International" width="100" height="50">
 
 
