@@ -36,6 +36,6 @@ Sazināties ar mani var, rakstot uz e-pasta adresi agnesepoikane[at]inbox.lv vai
 
 #### Dalība organizācijās | Членство в организациях:
 
-<a href="sua.lv"><img src="/images/pages/lsua-logo-eng.jpg" alt="Latvijas Sociālās uzņēmējdarbības asociācija" width="150" height="75"></a>     <img src="/images/pages/amnesty.jpg" alt="Amnesty International" width="150" height="75">
+<a href="https://sua.lv/"><img src="/images/pages/lsua-logo-eng.jpg" alt="Latvijas Sociālās uzņēmējdarbības asociācija" width="150" height="75"></a>     <img src="/images/pages/amnesty.jpg" alt="Amnesty International" width="150" height="75">
 
 
