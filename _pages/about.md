@@ -20,7 +20,7 @@ Sazināties ar mani var, rakstot uz e-pasta adresi agnesepoikane[at]inbox.lv vai
 
 Dalība organizācijās:
 
-![Latvijas Sociālās uzņēmējdarbības asociācija](/images/pages/lsua.png)
+![Latvijas Sociālās uzņēmējdarbības asociācija](https://sua.lv/)(/images/pages/lsua.png)
 ![Amnesty International](/images/pages/amnesty.jpg)
 
 
