@@ -4,7 +4,7 @@ title: Обо мне
 tags: ["яндекс_практикум", "личное", "выгорание", "блог", "аналитик_данных"]
 image: '/images/posts/rakstam/crop-woman-writing-in-notebook-at-home-4050300.jpg'
 lang: ru
-ref: about
+ref: 2021-01-01-about
 ---
 
 :ru: Здравствуйте!
