@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Par mani | Обо мне
-image: '/images/pages/DSC04153_1.jpg'
+layout: post
+title: Par mani
+tags: ["яндекс_практикум", "личное", "выгорание", "блог", "аналитик_данных"]
+image: '/images/posts/rakstam/crop-woman-writing-in-notebook-at-home-4050300.jpg'
 lang: lv
 ref: about
 ---
