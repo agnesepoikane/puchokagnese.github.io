@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Par mani
-image: '/images/pages/DSC04153_1.jpg'
+image: '/images/pages/about.JPG'
 lang: lv
 ref: about
 ---
 
 Sveiki! 
 
-Esmu Agnese. 
+Esmu [Agnese](https://agnesepoikane.com/). 
 
 Šajā blogā dalos ar grafiti un ielu mākslas fotogrāfijām, ko esmu atvedusi no dažādām pasaules valstīm. Bez vizuālā izpildījuma mani interesē arī politiskais, sociālais un vēsturiskais konteksts, kādā šie zīmējumi ir tapuši. 
 
