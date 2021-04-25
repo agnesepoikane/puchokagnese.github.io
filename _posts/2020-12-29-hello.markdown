@@ -10,8 +10,7 @@ ref: 2021-04-25-hello
 Mazliet pacietības! Jau pavisam drīz te atradīsi krāšņas grafiti un ielu mākslas fotogrāfijas, kā arī interesantus rakstus, kuros mēģināšu izprast gan ielu mākslas vēsturi, gan ielu mākslinieku radīto zīmējumu politisko, ekonomisko un vēsturisko kontekstu!
 
 ![image-Yandex-Practicum](/images/posts/hello_kiwie_1-min.jpg)
-Foto: autores; Aprīlis 3, 2021, Rīga, Latvija
-Autors: kiwie
+Foto: autores; mākslinieks: kiwie; vieta: Rīga, Latvija; laiks: 3. aprīlis, 2021
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 
