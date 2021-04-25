@@ -1,21 +1,20 @@
 ---
 layout: post
-title: Sveiciens
+title: Sveiciens blogā! 
 tags: ["blogs"]
-image: '/images/posts/rakstam/crop-woman-writing-in-notebook-at-home-4050300.jpg'
+image: '/images/posts/hello_kiwie.jpg'
 lang: lv
-ref: 2020-07-24-hello
+ref: 2021-04-25-hello
 ---
 
-Sveiciens!
+Mazliet pacietības! Jau pavisam drīz te atradīsi krāšņas grafiti un ielu mākslas fotogrāfijas, kā arī interesantus rakstus, kuros mēģināšu izprast gan ielu mākslas vēsturi, gan ielu mākslinieku radīto zīmējumu politisko, ekonomisko un vēsturisko kontekstu!
 
-Mazliet pacietības! Jau pavisam drīz te būs jauns ieraksts par kādu interesantu grāmatu vai aizraujošs stāsts par to, kā es strādāju pie kārtējā datu analītikas projekta!
+![image-Yandex-Practicum](/images/posts/hello_kiwie.jpg)
+Foto: autore
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
-Uz tikšanos,
-
-Agnese 
 
 ***
 
-Foto autore: Vlada Karpovich from Pexels
+Foto: autore
 {: style="color:gray; font-size: 80%; text-align: left;"}
