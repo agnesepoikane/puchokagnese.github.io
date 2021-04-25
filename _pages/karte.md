@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Valstis
-image: '/images/pages/DSC04153_1.jpg'
+#image: '/images/pages/valstis.JPG'
 lang: lv
 ref: karte
 ---
